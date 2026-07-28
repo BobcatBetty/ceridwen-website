@@ -1,0 +1,14 @@
+# Ceridwen Business Solutions
+
+> Beth Kukla is a PMP-certified business consultant and operations strategist based in Santa Cruz, CA. She helps small and mid-sized businesses improve processes, lead change, and implement technology.
+
+## Services
+- Strategic Planning: business strategy, goal alignment, roadmaps
+- Operations & Process Improvement: workflow design, efficiency, systems
+- Change Management: organizational change, team alignment
+- Technology Implementation: AI tools, custom landing pages, software selection
+
+## Contact
+- Website: https://ceridwensolutions.com
+- Email: beth@ceridwensolutions.com
+- Location: Santa Cruz, CA
